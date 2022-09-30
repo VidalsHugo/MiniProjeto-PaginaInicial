@@ -5,4 +5,4 @@ Projeto criado inteiramente para estudos de HTML5 e CSS3, por isso foi deixado d
 <br>
 Para visitar clique no link abaixo:
 <br>
-https://vidalshugo.github.io/project-site/
+https://vidalshugo.github.io/MiniProjeto-PaginaInicial/
